@@ -1,0 +1,55 @@
+{
+  "TEST_PIZZA": {
+    "name": "TEST_PIZZA",
+    "description": "Literally just to find out why the pizza oven isn't working",
+    "show_in_kristens_server": false,
+    "crust": "stuffed_crust",
+    "crust_finish": "GarlicButteryBlend",
+    "sauce": "CreamyGarlicParm",
+    "cheese": true,
+    "meattoppings": [{
+        "name": "Bacon",
+        "extra": false
+      }, {
+        "name": "ItalianSausage",
+        "extra": false
+      }, {
+        "name": "Meatball",
+        "extra": false
+      }, {
+        "name": "Pepperoni",
+        "extra": false
+      }
+    ],
+    "vegtoppings": [{
+        "name": "BananaPepper",
+        "extra": false
+      }, {
+        "name": "Jalapeno",
+        "extra": false
+      }, {
+        "name": "Olives_black",
+        "extra": false
+      }, {
+        "name": "Pineapple",
+        "extra": false
+      }
+    ]
+  },
+  "Pepperoni": {
+    "name": "Classic Pepperoni",
+    "description": "The classic pepperoni on the thin crust with cheese!",
+    "show_in_kristens_server": true,
+    "crust": "thin",
+    "crust_finish": "NoFinish",
+    "sauce": "Marinara",
+    "cheese": true,
+    "meattoppings": [{
+        "name": "Pepperoni",
+        "extra": false
+      }
+    ],
+    "vegtoppings": [
+    ]
+  }
+}

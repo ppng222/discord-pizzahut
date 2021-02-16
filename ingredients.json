@@ -1,0 +1,261 @@
+{
+  "crusts": {
+    "cum": {
+      "NoFinish": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_cum_NoFinish.png",
+      "GarlicButteryBlend": "",
+      "HutFavorite": "",
+      "ToastedParmesan": ""
+    },
+    "hand_tossed": {
+      "NoFinish": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ht_NoFinish.webp",
+      "GarlicButteryBlend": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ht_GarlicButteryBlend.webp",
+      "HutFavorite": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ht_HutFavorite.webp",
+      "ToastedParmesan": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ht_ToastedParmesan.webp"
+    },
+    "pan": {
+      "NoFinish": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_pan_NoFinish.webp",
+      "GarlicButteryBlend": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_pan_GarlicButteryBlend.webp",
+      "HutFavorite": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_pan_HutFavorite.webp",
+      "ToastedParmesan": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_pan_ToastedParmesan.webp"
+    },
+    "thin": {
+      "NoFinish": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_thin_NoFinish.webp",
+      "GarlicButteryBlend": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_thin_GarlicButteryBlend.webp",
+      "HutFavorite": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_thin_HutFavorite.webp",
+      "ToastedParmesan": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_thin_ToastedParmesan.webp"
+    },
+    "stuffed_crust": {
+      "NoFinish": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_sc_NoFinish.webp",
+      "GarlicButteryBlend": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_sc_GarlicButteryBlend.webp",
+      "HutFavorite": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_sc_HutFavorite.webp",
+      "ToastedParmesan": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_sc_ToastedParmesan.webp"
+    },
+    "ppp": {
+      "NoFinish": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ppp_NoFinish.webp",
+      "GarlicButteryBlend": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ppp_GarlicButteryBlend.webp",
+      "HutFavorite": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ppp_HutFavorite.webp",
+      "ToastedParmesan": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcrust_ppp_ToastedParmesan.webp"
+    }
+  },
+  "sauces": {
+    "BBQ": {
+      "ML": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_BBQ_ML.webp",
+      "ppp": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_BBQ_ppp.webp"
+    },
+    "Buffalo": {
+      "ML": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_Buffalo_ML.webp",
+      "ppp": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_Buffalo_ppp.webp"
+    },
+    "CreamyGarlicParm": {
+      "ML": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_CreamyGarlicParm_ML.webp",
+      "ppp": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_CreamyGarlicParm_ppp.webp"
+    },
+    "Marinara": {
+      "ML": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_Marinara_ML.webp",
+      "ppp": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_Marinara_ppp.webp"
+    },
+    "Cum": {
+      "ML": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fsauce_CreamyCum_ML.png?v=1607028941558",
+      "ppp": ""
+    }
+  },
+  "cheeses": {
+    "mozz": {
+      "ML": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcheese_mozz_ML.webp",
+      "ppp": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcheese_mozz_ppp.webp"
+    },
+    "cum": {
+      "ML": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Fcheese_cum_ML.png",
+      "ppp": ""
+    }
+  },
+  "meats": {
+    "Simoneroni": {
+        "ML": {
+          "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Simoneroni_ML_reg.png?v=1607029461835"
+        }
+    },
+    "Bacon": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Bacon_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Bacon_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Bacon_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Bacon_ppp_extra.webp"
+      }
+    },
+    "Beef": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Beef_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Beef_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Beef_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Beef_ppp_extra.webp"
+      }
+    },
+    "Chicken": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Chicken_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Chicken_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Chicken_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Chicken_ppp_extra.webp"
+      }
+    },
+    "Ham": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Ham_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Ham_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Ham_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Ham_ppp_extra.webp"
+      }
+    },
+    "ItalianSausage": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_ItalianSausage_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_ItalianSausage_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_ItalianSausage_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_ItalianSausage_ppp_extra.webp"
+      }
+    },
+    "Meatball": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Meatball_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Meatball_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Meatball_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Meatball_ppp_extra.webp"
+      }
+    },
+    "Pepperoni": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pepperoni_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pepperoni_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pepperoni_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pepperoni_ppp_extra.webp"
+      }
+    },
+    "Pork": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pork_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pork_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pork_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pork_ppp_extra.webp"
+      }
+    }
+  },
+  "veggies": {
+    "BananaPepper": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_BananaPepper_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_BananaPepper_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_BananaPepper_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_BananaPepper_ppp_extra.webp"
+      }
+    },
+    "GreenBellPepper": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenBellPepper_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenBellPepper_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenBellPepper_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenBellPepper_ppp_extra.webp"
+      }
+    },
+    "GreenOlives": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenOlives_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenOlives_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenOlives_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_GreenOlives_ppp_extra.webp"
+      }
+    },
+    "Jalapeno": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Jalepeno_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Jalepeno_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Jalepeno_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Jalepeno_ppp_extra.webp"
+      }
+    },
+    "Mushroom": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Mushroom_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Mushroom_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Mushroom_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Mushroom_ppp_extra.webp"
+      }
+    },
+    "Olives_black": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Olives_black_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Olives_black_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Olives_black_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Olives_black_ppp_extra.webp"
+      }
+    },
+    "Onion_red": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Onion_red_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Onion_red_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Onion_red_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Onion_red_ppp_extra.webp"
+      }
+    },
+    "Pineapple": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pineapple_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pineapple_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pineapple_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Pineapple_ppp_extra.webp"
+      }
+    },
+    "Spinach_Fresh": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Spinach_Fresh_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Spinach_Fresh_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Spinach_Fresh_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Spinach_Fresh_ppp_extra.webp"
+      }
+    },
+    "Tomato": {
+      "ML": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Tomato_ML_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Tomato_ML_extra.webp"
+      },
+      "ppp": {
+        "reg": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Tomato_ppp_reg.webp",
+        "extra": "https://cdn.glitch.com/af80e8b6-ab5f-45d8-8002-562174908f75%2Ftopping_Tomato_ppp_extra.webp"
+      }
+    }
+  }
+}
